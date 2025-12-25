@@ -17,7 +17,7 @@
 
 ## Запуск (production-режим)
 
-> ⚠️ Требуется: Docker, Docker Compose, Python 3.10+
+> Требуется: Docker, Docker Compose, Python 3.10+
 
 ### 1. Настройка инфраструктуры
 ```bash
