@@ -1,0 +1,16 @@
+prefect>=2.10.0
+dask>=2023.0
+pandas>=1.5
+plotly>=5.0
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+pyarrow>=14.0.0
+prefect>=2.10.0
+dask[complete]
+pandas
+sqlalchemy
+psycopg2-binary
+plotly
+python-dotenv
+psycopg2
+scikit-learn
